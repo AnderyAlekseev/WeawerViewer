@@ -1,0 +1,15 @@
+.today {
+    font-family: 'GolosTextWebRegular';
+    font-size: 22px;
+    font-weight: normal;
+    font-style: normal;
+    display: inline-grid;
+    border-radius: 12px;
+    margin: 0 auto;
+    padding: 12px;
+    text-align: center; 
+    width: 100%;
+    height: 48px;
+    box-sizing: border-box;
+    background: #FFFFFF;
+}

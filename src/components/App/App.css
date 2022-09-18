@@ -1,5 +1,40 @@
+.grid-container {
+  padding: 12px;
+  background: rgba(0, 0, 0, 0.5);
+  display: grid;
+  justify-content: center;
+  grid-template-columns:  minmax(320px, 700px);
+  grid-template-rows: repeat(3, minmax(auto, auto));
+  grid-row-gap: 8px;
+  grid-auto-rows: minmax(auto, auto);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
 .App {
   text-align: center;
+
 }
 
 .App-logo {
@@ -36,3 +71,4 @@
     transform: rotate(360deg);
   }
 }
+*/

@@ -1,0 +1,14 @@
+.secondary_panel{
+    display: inline-grid;
+    justify-content:space-around;
+    align-items:center;
+    /* grid-template-columns: repeat(3, minmax(100px auto)); */
+    grid-template-columns: 100px  100px  100px;
+
+    box-sizing: border-box;
+    background: #FFFFFF;
+    border-radius: 12px;
+    margin: 0 auto;
+    padding: 6px 12px 15px 12px;
+width: 100%;
+}
